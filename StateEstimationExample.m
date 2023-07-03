@@ -3,6 +3,7 @@ clear all
 close all
 rand('state',1)
 randn('state',1)
+addpath './Functions/'
 set(0, 'DefaultLineLineWidth', 1);
 
 % System Definition
